@@ -14,6 +14,8 @@ Controls: A or Left Arrow to move the paddle left; D or Right Arrow to move the 
 
 By clearing all bricks, the game will reset and the level count will increase (top right corner).
 
+![Screenshot](res/Description.png)
+
 After you play the game, if you obtain a highscore, the file Leaderboard.txt will be updated to reflect the local highscore.
 
 # Customization
